@@ -2,6 +2,12 @@
 
 Converts digraph format to Graphviz.
 
+## Install
+
+```
+go install go.teddydd.me/digraph2dot@latest
+```
+
 ## Usage
 
 ```sh
